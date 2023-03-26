@@ -7,6 +7,6 @@
     "start": "node ."
   },
   "stackblitz": {
-    "startCommand": "npm start boards/849.json"
+    "startCommand": "npm start -- boards/849.json"
   }
 }
